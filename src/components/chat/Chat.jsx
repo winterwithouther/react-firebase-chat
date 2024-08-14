@@ -19,7 +19,18 @@ export default function Chat() {
             </div>
         </div>
         <div className="center"></div>
-        <div className="bottom"></div>
+        <div className="bottom">
+            <div className="icons">
+                <img src="./img.png"></img>
+                <img src="./camera.png"></img>
+                <img src="./microphone.png"></img>
+            </div>
+            <input type="text" placeholder="Type a message..."></input>
+            <div className="emoji">
+                <img src="./emoji.png" alt=""></img>
+            </div>
+            <button className="send-button">Send</button>
+        </div>
     </div>
   )
 }
