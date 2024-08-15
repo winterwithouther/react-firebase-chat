@@ -29,8 +29,49 @@ export default function Chat() {
                 </div>
             </div>
             <div className="center">
-
-                
+                <div className="message own">
+                    <div className="texts">
+                        <p>
+                            Lorem Ipsum dolor sit amet consectetur adipisicing elit.
+                            Natus quis quae qui! Sint asperiories vero nobis deserunt aperiam iusto
+                            repellendus, optio impedit eius, reprehenderit dolorum nihil
+                        </p>
+                        <span>1 min ago</span>
+                    </div>
+                </div>
+                <div className="message">
+                    <img src="./avatar.png" alt=""></img>
+                    <div className="texts">
+                        <p>
+                            Lorem Ipsum dolor sit amet consectetur adipisicing elit.
+                            Natus quis quae qui! Sint asperiories vero nobis deserunt aperiam iusto
+                            repellendus, optio impedit eius, reprehenderit dolorum nihil
+                        </p>
+                        <span>1 min ago</span>
+                    </div>
+                </div>
+                <div className="message own">
+                    <div className="texts">
+                        <img src="https://www.superherotoystore.com/cdn/shop/articles/e33c2fa94c03efa06678116f80d62d0d_708x.jpg?v=1590599656" alt="bruh"></img>
+                        <p>
+                            Lorem Ipsum dolor sit amet consectetur adipisicing elit.
+                            Natus quis quae qui! Sint asperiories vero nobis deserunt aperiam iusto
+                            repellendus, optio impedit eius, reprehenderit dolorum nihil
+                        </p>
+                        <span>1 min ago</span>
+                    </div>
+                </div>
+                <div className="message">
+                    <img src="./avatar.png" alt=""></img>
+                    <div className="texts">
+                        <p>
+                            Lorem Ipsum dolor sit amet consectetur adipisicing elit.
+                            Natus quis quae qui! Sint asperiories vero nobis deserunt aperiam iusto
+                            repellendus, optio impedit eius, reprehenderit dolorum nihil
+                        </p>
+                        <span>1 min ago</span>
+                    </div>
+                </div>
             </div>
             <div className="bottom">
                 <div className="icons">
